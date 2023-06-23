@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto de redesign do ChatGPT feito em React demonstra a evolução dos meus estudos. O design foi simplificado, removendo elementos desnecessários e destacando as principais funcionalidades. Com o uso de React, pude aproveitar a modularidade e reutilização de componentes, tornando o código mais organizado e escalável.
+O projeto de redesign do ChatGPT feito em React demonstra a evolução dos meus estudos. O design foi simplificado, removendo elementos desnecessários e destacando as principais funcionalidades.
 
 ## 🔖 Layout
 
