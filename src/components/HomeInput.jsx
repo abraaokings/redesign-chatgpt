@@ -6,7 +6,7 @@ const HomeInput = () => {
       <form>
         <input
           type="text"
-          placeholder='Example : "Explain quantum computing in simple terms"'
+          placeholder='Example: "Explain quantum computing in simple terms"'
         />
         <button>
           <HomeInputBtn />
