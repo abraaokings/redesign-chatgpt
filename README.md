@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="brand" src="/src/assets/images/brand.svg" width="20%">
+  <img alt="brand" src="/src/assets/images/brand.svg" width="40%">
 </p>
 
 ## 🚀 Tecnologias
